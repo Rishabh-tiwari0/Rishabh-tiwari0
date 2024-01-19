@@ -13,8 +13,8 @@ As a Full Stack Developer, I love to work on both the front-end and back-end asp
 I am well-versed in a wide range of technologies and tools, including but not limited to:
 
 **Front-end:** HTML, CSS, JavaScript, ReactJS, Angular  
-**Back-end:** Node.js, Express, Python, Django  
-**Databases:** MongoDB, MySQL, PostgreSQL  
+**Back-end:** Node.js, Express  
+**Databases:** MongoDB, Firebase
 **Other Tools:** Git, Docker, AWS, Heroku
 
 ## Always Learning
